@@ -17,3 +17,11 @@ Documentation of Debate AI
 1. _Newbie_ can sign up.
 1. _Admin_/_Experts_ can invite/promote _User_/_External User_ to be an _Expert_ in some _Tags_.
 1. _Experts_ can invite/promote 3 experts/m.
+1. _Communities_ are private.
+1. _Users_ can chat together.
+1. _Expert_ can up stage a _User_. (in __public__ _Room_)
+1. _Users_ can create multiple _Rooms_ in the same _Community_.
+1. Feed contains ongoing _Rooms_ in intersted _Communities_ and _Tags_.
+1. A _Community_ is a chat room. 
+
+1. Debate mode
